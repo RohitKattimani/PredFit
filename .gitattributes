@@ -1,0 +1,21 @@
+node_modules/** linguist-vendored
+dist/** linguist-vendored
+build/** linguist-vendored
+*.min.* linguist-vendored
+*.bundle.* linguist-vendored
+venv/** linguist-vendored
+.env linguist-vendored
+*.log linguist-vendored
+
+*.md linguist-documentation
+*.rst linguist-documentation
+*.txt linguist-documentation
+docs/** linguist-documentation
+README* linguist-documentation
+
+*.py linguist-vendored=false
+*.py linguist-language=Python
+*.pyi linguist-language=Python
+
+dummies/** linguist-language=Python
+dummies/** linguist-vendored=false
