@@ -70,7 +70,7 @@ The core innovation of PredFit is the **Forum Discussion**. Five specialized age
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/predfit.git](https://github.com/your-username/predfit.git)
+   git clone [https://github.com/RohitKattimani/predfit.git](https://github.com/RohitKattimani/predfit.git)
    cd predfit
 2. **Environment Configuration**
    ```bash
